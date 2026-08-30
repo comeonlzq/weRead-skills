@@ -28,9 +28,10 @@
 - 🔒 **隐私优先** — 内置敏感内容过滤，涉及健康、亲密关系、职场财务的笔记静默跳过，不会出现在任何展示位
 - 🎨 **单文件 HTML** — 零依赖、不引 CDN、离线可打开，双击即看
 
+<img width="1356" height="1119" alt="151f6fe66e4ca77de3326d668949857a" src="https://github.com/user-attachments/assets/a854aeda-b486-49e7-b6a1-23a04dc0117e" />
 <img width="1260" height="39817" alt="30aff1ed6be57788d989ac31c3e925c6" src="https://github.com/user-attachments/assets/b6f6f2e4-a222-4d5b-8d65-429224d39eed" />
 <img width="687" height="1050" alt="243a3c18e6bd04ba8316d43f6a0b246c" src="https://github.com/user-attachments/assets/c8b46ef4-f9c1-46e8-b7fb-a17d57053b8b" />
-<img width="1356" height="1119" alt="151f6fe66e4ca77de3326d668949857a" src="https://github.com/user-attachments/assets/a854aeda-b486-49e7-b6a1-23a04dc0117e" />
+
 
 ## 🔄 工作流程
 
